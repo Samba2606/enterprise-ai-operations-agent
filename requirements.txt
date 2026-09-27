@@ -1,0 +1,9 @@
+streamlit>=1.39
+python-dotenv>=1.0
+langchain>=1.0
+langgraph>=1.0
+langchain-groq>=0.3
+pydantic>=2.8
+scikit-learn>=1.5
+numpy>=2.0
+mcp[cli]>=2.0
